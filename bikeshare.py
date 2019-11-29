@@ -17,7 +17,7 @@ df_washington = pd.read_csv('washington.csv')
 
 # Diaplay the first 7 rows of each dataframe
 print(df_ny.head(7))
-print(df_chicago.head())
+print(df_chicago.head(7))
 print(df_washington.head())
 
 
